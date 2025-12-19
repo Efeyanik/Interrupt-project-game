@@ -1,6 +1,5 @@
 # Interrupt project game (Unity)
 
-![Game Banner](https://img.shields.io/badge/Unity-2022.3-blue) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
 A visual demonstration of **Interrupts**, **Traps**, and **Throttling** concepts in Computer Architecture using a gamified simulation.
 
@@ -48,4 +47,4 @@ Bu proje, bir uzay gemisi oyunu üzerinden CPU, İşletim Sistemi ve Giriş/Çı
 * **Ekrandaki Oklar:** ISR işlemini tamamlamak ve işlemciyi soğutmak için doğru sırayla girilmelidir.
 
 ---
-**Developed by:** [Senin Adın]
+**Developed by:** [Efe Yanık]
